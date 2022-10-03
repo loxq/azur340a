@@ -1,0 +1,1 @@
+This program reads RC5 codes from the amplifier IR sensor and print them on Serial console to check if the remote control is ok.
